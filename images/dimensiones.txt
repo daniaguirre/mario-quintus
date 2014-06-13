@@ -1,0 +1,2 @@
+mosaicos_escenario.png 32x32
+mario_enano.png 30x30
