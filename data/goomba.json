@@ -1,5 +1,5 @@
 {
-	"enemigo": {
+	"goomba": {
 		"sx": 0,
 		"sy": 0,
 		"tilew": 32,
